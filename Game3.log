@@ -1,0 +1,19 @@
+﻿  Main.c
+C:\Users\hp\source\repos\Game3\Game3\Main.c(19,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(203,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(207,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(268,57): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(268,75): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(297,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(297,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(297,77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(297,101): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(512,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(519,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(524,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(524,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(530,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\source\repos\Game3\Game3\Main.c(530,79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  status.c
+  Generating Code...
+  Game3.vcxproj -> C:\Users\hp\source\repos\Game3\Debug\Game3.exe
